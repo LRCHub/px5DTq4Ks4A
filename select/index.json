@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "chiclona",
+  "base_artist": "Peso Pluma, Tito Double P y LENCHO",
+  "createdAt": "2026-03-19T03:12:09.032325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chiclona",
+      "artist": "LENCHO",
+      "has_synced": true,
+      "path": "select/01_Chiclona_LENCHO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma",
+      "has_synced": true,
+      "path": "select/02_chiclona_Peso_Pluma.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma - Topic",
+      "has_synced": true,
+      "path": "select/03_chiclona_Peso_Pluma_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma, Tito Double P, LENCHO",
+      "has_synced": true,
+      "path": "select/04_chiclona_Peso_Pluma,_Tito_Double_P,_LENCHO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma, Tito Double P y LENCHO",
+      "has_synced": true,
+      "path": "select/05_chiclona_Peso_Pluma,_Tito_Double_P_y_LENCHO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma, Tito Double P",
+      "has_synced": true,
+      "path": "select/06_chiclona_Peso_Pluma,_Tito_Double_P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "chiclona",
+      "artist": "Peso Pluma, Tito Double P, y, LENCHO",
+      "has_synced": true,
+      "path": "select/07_chiclona_Peso_Pluma,_Tito_Double_P,_y,_LENCHO.lrc"
+    }
+  ]
+}
